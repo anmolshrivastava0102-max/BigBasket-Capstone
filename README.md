@@ -27,8 +27,8 @@ The analysis includes:
 
 ## Dashboard
 Tableau Public Dashboard:
-[Add Tableau Dashboard Link Here]
-
+[View BigBasket Sales Dashboard](https://public.tableau.com/app/profile/anmol.shrivastava8387/viz/bigbasketsalesdashboard/categoryrevenuebytargettier)
 ## Files
 - monthly-category-revenue.csv
+
 - monthly-category-revenue (1).xlsx
